@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T08:17:34.085Z" agent="5.0 (Windows)" etag="MSizTvi6sXNsJj8oPs7y" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-14T08:19:13.118Z" agent="5.0 (Windows)" etag="DaZTMM9DqfHgtNjww8oj" version="13.11.0" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="2370" dy="1282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -7,8 +7,8 @@
         <mxCell id="8cuVBeNiY9Bw5ADYlNcY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=5;fontStyle=1;fontSize=15;" edge="1" parent="1" source="wtm1ySMwc9PC7Cmq1RKc-62" target="p6RBwhQNt-7Z39dhlTQw-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wtm1ySMwc9PC7Cmq1RKc-62" value="手游发行平台" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;html=1;whiteSpace=wrap;fontSize=15;fontStyle=1;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#82b366;fillColor=#d5e8d4;verticalAlign=top;align=left;spacingLeft=30;dashed=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="460" y="370" width="1120" height="640" as="geometry" />
+        <mxCell id="wtm1ySMwc9PC7Cmq1RKc-62" value="云服务-手游发行平台" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;html=1;whiteSpace=wrap;fontSize=15;fontStyle=1;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#82b366;fillColor=#d5e8d4;verticalAlign=top;align=left;spacingLeft=30;dashed=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="460" y="360" width="1120" height="650" as="geometry" />
         </mxCell>
         <mxCell id="xIOn1DT5dU4AWs0Y2ffb-6" value="SLB" style="whiteSpace=wrap;html=1;verticalAlign=top;align=left;strokeColor=#AC49D0;fillColor=#7EA6E0;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="500" y="400" width="130" height="590" as="geometry" />
@@ -204,7 +204,7 @@
         <mxCell id="8cuVBeNiY9Bw5ADYlNcY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;fontStyle=1;fontSize=15;" edge="1" parent="1" source="p6RBwhQNt-7Z39dhlTQw-77" target="wtm1ySMwc9PC7Cmq1RKc-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p6RBwhQNt-7Z39dhlTQw-77" value="手游-云服务" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;html=1;whiteSpace=wrap;fontSize=15;fontStyle=1;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#82b366;fillColor=#d5e8d4;verticalAlign=top;align=left;spacingLeft=30;dashed=0;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="p6RBwhQNt-7Z39dhlTQw-77" value="云服务-手游服务端" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;html=1;whiteSpace=wrap;fontSize=15;fontStyle=1;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#82b366;fillColor=#d5e8d4;verticalAlign=top;align=left;spacingLeft=30;dashed=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="460" y="200" width="1120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="p6RBwhQNt-7Z39dhlTQw-3" value="Gate" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=0;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=15;" parent="1" vertex="1">
