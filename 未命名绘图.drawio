@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T06:02:13.109Z" agent="5.0 (Windows)" etag="zOKH5JTahFHjPdXTjYQp" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-21T06:08:32.753Z" agent="5.0 (Windows)" etag="Ag3h8uwHlwOZOGk068qj" version="13.11.0" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="2844" dy="1538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -257,8 +257,8 @@
         <mxCell id="tltOfh3v_M4G0ZqM4TJ2-4" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=15;image=img/lib/mscae/DNS_Private_Zones.svg;dashed=1;strokeColor=#AC49D0;fillColor=#9AC7BF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="210" y="1530" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tltOfh3v_M4G0ZqM4TJ2-9" value="海外发行平台网络架构图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=40;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="645" y="40" width="460" height="50" as="geometry" />
+        <mxCell id="tltOfh3v_M4G0ZqM4TJ2-9" value="海外手游发行平台系统网络架构图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=40;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="565" y="40" width="620" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
