@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T08:51:43.311Z" agent="5.0 (Windows)" etag="DVQrTS5lmWgxTkNhuz8B" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-09T08:56:38.861Z" agent="5.0 (Windows)" etag="XLxHCk2HK7JW0yBcCzPF" version="14.2.7" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="2031" dy="1099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -260,7 +260,7 @@
         <mxCell id="tltOfh3v_M4G0ZqM4TJ2-9" value="海外手游发行平台系统网络架构图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=30;fontColor=#000000;fontStyle=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="640" y="45" width="470" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="A3-ekQ0TvP1LWdSh3Aed-1" value="可扩展" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;align=left;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="A3-ekQ0TvP1LWdSh3Aed-1" value="可扩展" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;align=left;verticalAlign=top;fontStyle=1;fontSize=20;strokeWidth=5;strokeColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="297.42" y="360" width="140" height="520" as="geometry" />
         </mxCell>
       </root>
